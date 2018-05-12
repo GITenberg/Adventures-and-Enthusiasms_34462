@@ -1,0 +1,46 @@
+_repo: Adventures-and-Enthusiasms_34462
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lucas, E. V. (Edward Verrall)
+    aliases:
+    - Lucas, E.V.
+    - Lucas, Edward Verrall
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '818'
+    url: http://www.gutenberg.org/2009/agents/818
+    wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+description: ''
+gutenberg_issued: '2010-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+tableOfContents: 'The perfect guest -- The sparrows'' friend -- The golden eagle --
+  A morning call -- The true wizard of the north -- Innocence and impulse -- Possessions
+  -- Drake and his game -- Admirals all: to be -- A study in symmetry -- Davy Jones
+  -- The man of Ross -- The innocent''s progress -- Thoughts at the ferry -- A little
+  child -- A Devonshire inn -- On shops and stalls -- Third thoughts -- The Italian
+  question -- On disguise -- Broken English -- Enthusiasts -- Telephonics -- The world
+  remedial -- What the sun did not see -- Two of Martha''s sons -- Freaks of memory
+  -- The moral dressing-table -- Thackeray''s school fellow -- In re physiognomy:
+  Identification. Dr. Sullivan -- The world''s desire -- A conqueror -- The newness
+  of the old -- Aunts -- On recitations -- Clicquot well won -- The sufferer -- A
+  south sea bubble -- On finding things -- Punctuality -- The other two -- On secret
+  passages -- Little Miss Banks -- Gentlemen both -- On epitaphs -- In and about London:
+  A London thrill. A door plate. Angel advocacy. The Soane Hogarths. Greenwich Hospital.
+  Kew in April. Royal Windsor. Three little backwaters. A self-made statue. Crowds
+  and a bad Samaritan. Before and after. The green among the grey. The fatherly force.
+  My friend Flora.'
+title: Adventures and Enthusiasms
+url: http://www.gutenberg.org/ebooks/34462
